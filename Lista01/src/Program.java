@@ -5,7 +5,7 @@ public class Program {
 
   public static void main(String[] args) {
     
-    Exercicio10.executar();
+    Exercicio11.executar();
 
   }
 
