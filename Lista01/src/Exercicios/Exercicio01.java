@@ -1,10 +1,6 @@
 package Exercicios;
 import java.util.Scanner;
 
-
-
-
-
 public class Exercicio01 {
 
     public static void executar() {
@@ -18,6 +14,7 @@ public class Exercicio01 {
         }
         
         else System.out.println("Número menor ou igual a 10");
+        leitor.close();
 
 
 
