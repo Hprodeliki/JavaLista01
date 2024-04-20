@@ -13,7 +13,7 @@ public class Exercicio15 {
 
         System.out.println("Digite as coordenadas do segundo ponto (x2 y2): ");
         double x2 = leitor.nextDouble();
-        
+
         double y2 = leitor.nextDouble();
         leitor.nextLine();
         leitor.close();
@@ -22,3 +22,4 @@ public class Exercicio15 {
         System.out.println("A distância entre os dois pontos é: " + distancia);
     }
 }
+//aatt
